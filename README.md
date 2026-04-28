@@ -1,49 +1,53 @@
-# 👋 Hi, I'm Nagavalli Mareedu  
+# 👋 Hi, I'm Nagavalli Mareedu
 
-🎓 **Master’s Student in Data Science** at *Kent State University*  
-💡 Passionate about transforming data into intelligent insights that drive innovation, efficiency, and meaningful impact.  
+### AI Engineer | GenAI Developer | LLMs | RAG | LangChain | FastAPI
 
----
-
-### 🧭 Professional Snapshot  
-With a strong foundation in **data analytics, visualization, and applied machine learning**, I focus on converting complex datasets into actionable insights that enhance real-world decision-making.  
-My experience across **academia, healthcare systems, and data-driven projects** has strengthened my ability to design, validate, and deliver analytical solutions that make measurable differences.  
-
-I take pride in uncovering trends, optimizing processes, and presenting data through engaging, insightful dashboards and reports.  
+AI Engineer focused on building production-ready Generative AI applications, AI agents, RAG pipelines, and scalable LLM-powered systems.
 
 ---
 
-### ⚙️ Expertise Highlights  
-- Data Wrangling, Cleaning & Preprocessing  
-- Statistical Modeling & Predictive Analytics  
-- Data Visualization & Dashboard Development  
-- Business Intelligence & Performance Insights  
-- Cloud & Scalable Data Solutions (AWS, Azure)  
-- Real-World Healthcare and Operational Data Projects  
+## 🚀 About Me
+
+- Building AI-powered applications using Python, FastAPI, React, and Next.js
+- Experienced with LLMs, Prompt Engineering, RAG, LangChain, LlamaIndex, and Vector Databases
+- Skilled in AWS, Azure, GCP, Docker, Kubernetes, CI/CD, and MLOps
+- Passionate about building scalable AI systems and enterprise automation solutions
 
 ---
 
-### 🧰 Data Toolkit  
-Proficient in **Python, R, SQL**, and frameworks like **Pandas, Scikit-learn, Tableau, and Power BI**, with hands-on experience in **AWS, Azure**, and modern analytics workflows.  
+## 🛠️ Tech Stack
+
+### AI / ML / GenAI
+Python, PyTorch, TensorFlow, Hugging Face, Transformers, LangChain, LlamaIndex, OpenAI APIs, RAG, Prompt Engineering
+
+### Backend & APIs
+FastAPI, Flask, REST APIs, GraphQL, Node.js
+
+### Cloud & DevOps
+AWS, Azure, GCP, Docker, Kubernetes, GitHub Actions, MLflow
+
+### Data & Databases
+SQL, PostgreSQL, MongoDB, BigQuery, Vector Databases
 
 ---
 
-### 🌟 My Philosophy  
-I believe that data becomes powerful when it tells a story.  
-Every analysis I perform centers around clarity, context, and purpose — aiming not just to interpret numbers, but to reveal insights that inspire informed actions and better outcomes.  
+## 📌 Featured Projects
+
+### Enterprise AI Assistant (RAG Pipeline)
+- Built a production-ready RAG application using LangChain, FAISS, OpenAI, and FastAPI
+- Implemented semantic search and context-aware responses
+
+### AI Agent Workflow Automation
+- Developed AI agents with LangGraph and tool-calling workflows
+- Integrated external APIs and structured outputs
+
+### Healthcare AI Analytics Platform
+- Built ML-powered healthcare analytics workflows using Python, SQL, and Tableau
+- Delivered actionable insights using predictive analytics
 
 ---
 
-### 💫 Beyond Data  
-When I’m not exploring datasets, I love exploring new places and sharing my experiences on my YouTube channel **[America Prayanam](https://www.youtube.com/@AmericaPrayanam)** — where I blend creativity, storytelling, and cultural perspectives.  
+## 📫 Connect With Me
 
----
-
-### 💬 Let’s Connect  
-🌐 [LinkedIn](https://www.linkedin.com/in/nagavallimareedu)  
-📧 [nmareedu@kent.edu](mailto:nmareedu@kent.edu)  
-
----
-
-⭐ *“Data has a voice — I help it speak with clarity and purpose.”*
-
+- LinkedIn: www.linkedin.com/in/nagavallimareedu  
+📧 [jhmnmareedu2000@gmail.com](jhmnmareedu2000@gmail.com)  
